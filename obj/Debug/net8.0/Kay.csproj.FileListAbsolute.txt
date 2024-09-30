@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Kay\obj\Debug\net8.0\Kay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Kay\obj\Debug\net8.0\Kay.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Kay\obj\Debug\net8.0\Kay.AssemblyInfo.cs
+C:\Users\HP\Desktop\Kay\obj\Debug\net8.0\Kay.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Kay\bin\Debug\net8.0\Kay.exe
+C:\Users\HP\Desktop\Kay\bin\Debug\net8.0\Kay.deps.json
+C:\Users\HP\Desktop\Kay\bin\Debug\net8.0\Kay.runtimeconfig.json
+C:\Users\HP\Desktop\Kay\bin\Debug\net8.0\Kay.dll
+C:\Users\HP\Desktop\Kay\bin\Debug\net8.0\Kay.pdb
+C:\Users\HP\Desktop\Kay\obj\Debug\net8.0\Kay.dll
+C:\Users\HP\Desktop\Kay\obj\Debug\net8.0\refint\Kay.dll
+C:\Users\HP\Desktop\Kay\obj\Debug\net8.0\Kay.pdb
+C:\Users\HP\Desktop\Kay\obj\Debug\net8.0\Kay.genruntimeconfig.cache
+C:\Users\HP\Desktop\Kay\obj\Debug\net8.0\ref\Kay.dll
